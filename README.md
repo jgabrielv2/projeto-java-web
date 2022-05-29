@@ -9,6 +9,6 @@ Até o momento, neste projeto, foi abordado os seguintes assuntos:
 - Requisições HTTP POST e GET
 - JSP (Java Server Pages) e JSTL (JavaServer Pages Standard Template Library)
 - Autenticação
-- ~Formulário de login
+- Formulário de login
 - Filtros
 - Introdução ao Web Services
