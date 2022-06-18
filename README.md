@@ -2,13 +2,13 @@
 
 Este projeto faz parte da aprendizagem de Spring Framework, pela Alura.
 
-AtÃ© o momento, neste projeto, foi abordado os seguintes assuntos:
+Até o momento, neste projeto, foi abordado os seguintes assuntos:
 
 - Servlets
 - Tomcat
-- RequisiÃ§Ãµes HTTP POST e GET
+- Requisições HTTP POST e GET
 - JSP (Java Server Pages) e JSTL (JavaServer Pages Standard Template Library)
-- AutenticaÃ§Ã£o
-- FormulÃ¡rio de login
+- Autenticação
+- Formulário de login
 - Filtros
-- IntroduÃ§Ã£o ao Web Services
+- Introdução ao Web Services
